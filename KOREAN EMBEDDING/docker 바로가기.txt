@@ -1,0 +1,5 @@
+docker run -it --rm ratsgo/embedding-cpu bash  접속
+docker run -it --rm -p 8888:8888 ratsgo/embedding-cpu
+
+127.0.0.1:8888/?token=5c66c5893d4eb7b60f4d76fe9d5a314f5e216b0d41ebddc2
+
